@@ -1,7 +1,13 @@
 canada 
 maxico
 usa
+<<<<<<< HEAD
 america branch
 changed
 america
 maxico
+=======
+hello
+hi
+abc
+>>>>>>> 6582d4096ee8f7d278d756734cedae19d61e9658
