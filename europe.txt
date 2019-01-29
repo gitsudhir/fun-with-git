@@ -1,9 +1,4 @@
 england
 france
 germany
-<<<<<<< HEAD
- i dont know
-abot
-=======
-hello i am atul
->>>>>>> 6582d4096ee8f7d278d756734cedae19d61e9658
+
